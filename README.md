@@ -16,7 +16,8 @@
 ### Project Goals:
 
 - Analyze and model using salary data from fiscal year 2020
-- look for paygaps in gender
+- looking for pay gaps for gender
+- looking for pay gaps for ethnicity
 
 ## Project Summary
 
@@ -51,9 +52,14 @@
 |GENDER                          |gender of employee - male or female  |object    |
 |ETHNIC ORIGIN11                 |ethnicity information from employees through voluntary reporting (self identification)                                     |object    |
 |EMPLOYEE SUBGROUP               |full and part time with department   |object    | 
-|WITHDRAW DATE                   |last day of empoyment                |datetime64|
-|---------------------------------------------------------------------------------|
-
+|WITHDRAW DATE                   |last day of empoyment                |datetime64|                                     
+|ethnicity_OTHER                 |dummies columns 1 = OTHER & 0 = not  |uint8     |
+|ethnicity_ASIAN                 |dummies columns 1 = ASIAN & 0 = not  |uint8     |
+|ethnicity_NATIVE HAWAIIAN       |dummies columns 1 = NATIVE HAWAIIAN & 0 = not  |uint8     |
+|ethnicity_NATIVE AMERICAN       |dummies columns 1 = NATIVE AMERICAN & 0 = not  |uint8     |
+|ethnicity_BLACK                 |dummies columns 1 = BLACK & 0 = not  |uint8     |
+|ethnicity_WHITE                 |dummies columns 1 = WHITE & 0 = not  |uint8     |
+|ethnicity_HISPANIC              |dummies columns 1 = HISPANIC & 0 = not  |uint8  |
 
 ## Hypothesis
 
