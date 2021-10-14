@@ -95,7 +95,7 @@
 
 **If I had more time:**
 
-- I would like to split up the salaries by department and investigating pay gap discrepancies
+- I would like to split up the salaries by department and time employeed to further investigating pay gap discrepancies
 
 - Try other models and features
 
