@@ -139,7 +139,8 @@
 
 You will need your own env file with database credentials along with all the necessary files listed below to run my final project notebook.
 
-- retrieved the data from the City of San Antonio website https://www.sanantonio.gov/Finance/bfi/CityComp2 downloaded and used the Fiscal Year 2020 City Compensation Report
+- Download the the data file from this repository FY20CityComp.xlsx or you can follow the steps below
+- Retrieved the data from the City of San Antonio website https://www.sanantonio.gov/Finance/bfi/CityComp2 downloaded and used the Fiscal Year 2020 City Compensation Report
 - Open .xlxs file and delete rows 1 thur 14. Rows have description about the data
 - Read this README.md
 - Download the wrangle.py, explore.py, model.py and individual_project.ipynb files into your directory
