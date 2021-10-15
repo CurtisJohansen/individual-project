@@ -85,7 +85,7 @@
 
 - There is a salary gap based on gender and on ethnicity
 
-- Model performance has 75% accuracy when predicting gender using features like salary, gender and ethnicity
+- Model performance has 75% accuracy when using features like salary, gender and ethnicity
 
 **Recommendations & next steps:**
 
